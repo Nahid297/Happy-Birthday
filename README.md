@@ -116,8 +116,8 @@
     <p id="head" style="color:purple;font-family:cursive">Happy Birthday!</p>
     <p style="color:blue;font-family:cursive">I hope your special day will bring you lots of happiness, love, and fun. You deserve them a lot. Enjoy!</p>
  <p> শাহীন,,তুমি একটা বোকাচোদা</p> 
-<a style="text-decoration:none" href="xtra.html">yes</a>
-<a style="text-decoration:none" href="xtra.html">definitely</a>
+<button type="button"style="background-color:black"><a style="text-decoration:none" href="xtra.html">yes</a></button>
+<button type="button"style="background-color:black"><a style="text-decoration:none" href="xtra.html">definitely</a></button>
 </div>
 </div>
 
